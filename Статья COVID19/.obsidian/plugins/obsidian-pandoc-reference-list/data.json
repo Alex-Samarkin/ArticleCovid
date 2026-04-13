@@ -1,0 +1,10 @@
+{
+  "pathToPandoc": "C:\\Program Files\\Pandoc\\pandoc.EXE",
+  "tooltipDelay": 400,
+  "zoteroGroups": [],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/gost-r-7-0-5-2008-numeric.csl",
+  "cslLang": "ru-RU"
+}

@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "30470d76dd79901b",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f1394298840c2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f84fce3cfd37b954",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bacd413b3bb68944",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd52ef4605f0fb75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31b16b32255f67cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "9a9b60b24717cea8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "9d0ce836b8a5df54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b4c84f66a42b97a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1693657cd7a878e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a139597cc2c0925",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.3 Неполнота существующих исследований.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 1.3 Неполнота существующих исследований"
+            }
+          },
+          {
+            "id": "02fee1f11f5fa63b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.3 Неполнота существующих исследований.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 1.3 Неполнота существующих исследований"
+            }
+          },
+          {
+            "id": "8b22babc8a4822ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "247ecc2d26531237",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "2f6efc361908bc16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.3 Неполнота существующих исследований.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 1.3 Неполнота существующих исследований"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "f84fce3cfd37b954",
+  "lastOpenFiles": [
+    "Статья.md",
+    "Результаты/Таблицы в раздел результаты.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "Результаты/Результаты.md",
+    "Результаты/3.1 Описательная характеристика временного ряда и идентификация волн.md",
+    "Результаты/3.2 Результаты калибровки стандартной SEIRD-модели.md",
+    "Результаты/3.3 Оценка порядка дробной производной.md",
+    "Результаты/3.4 Формальное сравнение моделей.md",
+    "Результаты/3.5 Интерпретация α_k как маркера популяционного иммунитета.md",
+    "Результаты",
+    "Материалы и методы/2.8 Сравнение результатов.md",
+    "Материалы и методы/Материалы и методы.md",
+    "Материалы и методы/2.7 Стратегия численной оптимизации.md",
+    "Материалы и методы/2.6 SEIRD модель с производными дробного порядка.md",
+    "Материалы и методы/2.5 Стандартная SEIRD модель.md",
+    "Материалы и методы/2.4 Календарь доминирования штаммов.md",
+    "Материалы и методы/2.3 Идентификация волн заболеваемости.md",
+    "Материалы и методы/2.2 Предварительная обработка данных.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "~WRL3815.tmp",
+    "~WRD3811.tmp",
+    "~$Статья.docx",
+    "Статья.docx",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Без названия.base",
+    "Материалы и методы",
+    "Введение"
+  ]
+}
