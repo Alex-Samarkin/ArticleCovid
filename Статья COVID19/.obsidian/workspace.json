@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "87f1394298840c2b",
+        "id": "6aa754e8db1c48b9",
         "type": "tabs",
         "children": [
           {
-            "id": "f84fce3cfd37b954",
+            "id": "0618b419856c2f74",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Статья.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Статья"
             }
           }
         ]
@@ -160,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Структура 1.3 Неполнота существующих исследований"
             }
+          },
+          {
+            "id": "bc7b1eda95db9228",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,43 +195,43 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f84fce3cfd37b954",
+  "active": "0618b419856c2f74",
   "lastOpenFiles": [
+    "Статья COVID19.rar",
+    "Результаты/~$зультаты.docx",
+    "Результаты/Результаты.docx",
+    "Материалы и методы/~WRL3783.tmp",
+    "Материалы и методы/~WRD3771.tmp",
+    "Материалы и методы/~$7 Стратегия численной оптимизации.docx",
+    "Материалы и методы/2.7 Стратегия численной оптимизации.docx",
+    "Материалы и методы/~$6 SEIRD модель с производными дробного порядка.docx",
+    "Материалы и методы/2.6 SEIRD модель с производными дробного порядка.docx",
+    "Материалы и методы/~$tthods.docx",
+    "Материалы и методы/~WRL3848.tmp",
+    "Статьяv2.md",
+    "Статья copy.md",
+    "Введение/Введение.md",
     "Статья.md",
+    "Обсуждение/4.2 Методологическое сравнение с альтернативными подходами.md",
+    "Заключение/Заключение.md",
+    "Обсуждение/Обсуждение.md",
+    "Обсуждение/4.3 Практические следствия для эпидемиологического надзора.md",
+    "Обсуждение/4.1 Интерпретация основных результатов в контексте литературы.md",
+    "Обсуждение/4.4 Ограничения исследования и направления будущих исследований.md",
+    "Результаты/Результаты.md",
     "Результаты/Таблицы в раздел результаты.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "Результаты/Результаты.md",
     "Результаты/3.1 Описательная характеристика временного ряда и идентификация волн.md",
     "Результаты/3.2 Результаты калибровки стандартной SEIRD-модели.md",
     "Результаты/3.3 Оценка порядка дробной производной.md",
     "Результаты/3.4 Формальное сравнение моделей.md",
     "Результаты/3.5 Интерпретация α_k как маркера популяционного иммунитета.md",
-    "Результаты",
     "Материалы и методы/2.8 Сравнение результатов.md",
     "Материалы и методы/Материалы и методы.md",
     "Материалы и методы/2.7 Стратегия численной оптимизации.md",
     "Материалы и методы/2.6 SEIRD модель с производными дробного порядка.md",
     "Материалы и методы/2.5 Стандартная SEIRD модель.md",
     "Материалы и методы/2.4 Календарь доминирования штаммов.md",
-    "Материалы и методы/2.3 Идентификация волн заболеваемости.md",
-    "Материалы и методы/2.2 Предварительная обработка данных.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "~WRL3815.tmp",
-    "~WRD3811.tmp",
-    "~$Статья.docx",
-    "Статья.docx",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "Без названия.base",
-    "Материалы и методы",
-    "Введение"
+    "Материалы и методы/2.3 Идентификация волн заболеваемости.md"
   ]
 }

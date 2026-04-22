@@ -4,32 +4,53 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "section:()",
+      "query": "введение",
       "color": {
         "a": 1,
         "rgb": 14235190
       }
     },
     {
-      "query": "",
+      "query": "материалы и методы",
       "color": {
         "a": 1,
         "rgb": 14069084
+      }
+    },
+    {
+      "query": "результаты",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "обсуждениее",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "выводы",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.8,
-  "nodeSizeMultiplier": 1.5546875,
-  "lineSizeMultiplier": 2.34583333333333,
+  "textFadeMultiplier": -2.7,
+  "nodeSizeMultiplier": 1.478125,
+  "lineSizeMultiplier": 3.44322916666667,
   "collapse-forces": false,
-  "centerStrength": 0.458333333333333,
-  "repelStrength": 8.85416666666667,
+  "centerStrength": 0.255208333333333,
+  "repelStrength": 9.6875,
   "linkStrength": 0.390625,
   "linkDistance": 121,
   "scale": 0.7132754626224419,

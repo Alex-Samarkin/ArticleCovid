@@ -1,0 +1,15 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'article.blg'
+[86] biber-MSWIN64:342> INFO - === 
+[123] Biber.pm:421> INFO - Reading 'article.bcf'
+[221] Biber.pm:1002> INFO - Found 4 citekeys in bib section 0
+[230] Biber.pm:4487> INFO - Processing section 0
+[238] Biber.pm:4678> INFO - Looking for bibtex file 'references.bib' for section 0
+[300] bibtex.pm:1713> INFO - LaTeX decoding ...
+[307] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[347] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[347] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[347] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'ru-RU'
+[347] Biber.pm:4313> INFO - No sort tailoring available for locale 'ru-RU'
+[349] bbl.pm:676> INFO - Writing 'article.bbl' with encoding 'UTF-8'
+[350] bbl.pm:779> INFO - Output to article.bbl
